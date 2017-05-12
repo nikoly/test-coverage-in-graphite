@@ -13,6 +13,7 @@ To install all the necessary libraries that are used in the script
 If there is no HOSTED_GRAPHITE_KEY or BRANCH_NAME in the environment, do
 
 ```export HOSTED_GRAPHITE_KEY = <api-key> ```
+
 ```export BRANCH_NAME = <git-branch-name> ```
 
 Run the script
