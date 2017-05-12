@@ -21,4 +21,4 @@ Run the script
 
 An use this metric to find your data:
 
-```test.coverage.<service-name>.<branch-name>
+```test.coverage.<service-name>.<branch-name>```
