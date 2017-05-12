@@ -20,6 +20,6 @@ Run the script
 
 ```./coverage_to_graphite.py <service-name> <path-to-report> ```
 
-An use this metric to find your data:
+An use this metric to find your data in Graphite:
 
 ```test.coverage.<service-name>.<branch-name>```
